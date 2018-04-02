@@ -1,4 +1,4 @@
-
+merge
 this merging file
 new merging
 third line
